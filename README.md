@@ -1,10 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=manish-850&color=green)
 
-![manish-850's Stats](https://github-readme-stats.vercel.app/api?username=manish-850&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-
-![manish-850's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-850&theme=onedark&hide_border=false)
-
-![manish-850's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-850&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+![manish-850's Stats](https://github-readme-stats.vercel.app/api?username=manish-850&theme=onedark&show_icons=true&hide_border=false&count_private=true)![manish-850's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-850&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **manish-850/manish-850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
