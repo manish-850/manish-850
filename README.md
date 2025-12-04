@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=manish-850&color=green)
 
-![manish-850's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-850&theme=onedark&show_icons=true&hide_border=false&layout=compact)
-
 <!--
 **manish-850/manish-850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
