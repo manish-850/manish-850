@@ -3,7 +3,7 @@
 As a full-stack engineer and creative developer, I focus on creating a beautiful interface, motion, and interactive experiences on the web. I create experiences with the help of technology such as GSAP, Three.js, and Lenis.
 
 ##### Techstack
-C  |  C++  |  JavaScript  |  React  |  Next.js  |  Tailwind CSS  |  Node.js  |  Express  |  MongoDB  |  Git  |  GSAP  |  Motion  |  Three.js  |  Socket.IO
+C  |  C++  |  JavaScript  |  React  |  Next.js  |  Tailwind CSS  |  Node.js  |  Express  |  MongoDB  |  Git  |  GSAP  |  Motion  |  Three.js  |  React three fiber  |  Socket.IO
 
 
 ![](https://komarev.com/ghpvc/?username=manish-850&color=red)
