@@ -1,6 +1,6 @@
 ##### Introduction
 
-Full-stack engineer and creative developer, I focus on creating a beautiful interface, motion, and interactive experiences on the web. I create experiences with the help of technology such as GSAP, Three.js, and Lenis.
+As a full-stack engineer and creative developer, I focus on creating a beautiful interface, motion, and interactive experiences on the web. I create experiences with the help of technology such as GSAP, Three.js, and Lenis.
 
 
 
